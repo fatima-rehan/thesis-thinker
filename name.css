@@ -28,7 +28,7 @@ body{
     text-align:center;
     background-color: #4a3007ff;
     background-size: 45vh;
-    width: 100%;
+    width: 100vw;
     position: -webkit-sticky-top;
     position: fixed;
 }
@@ -37,8 +37,6 @@ body{
     font-size: 30px;
     font-family: "Times New Roman";
     color: #fbe9d3ff;
-    justify-content: center;
-    margin-top: auto;
 }
 /*question text*/
 
