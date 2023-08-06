@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Calibri|Times New Roman|Georgia&display=swap");
+
+html {
+    margin: 0;
+    padding: 0;
+    font-family:"Calibri", "Times New Roman", "Georgia";
+    scroll-behavior: smooth;
+    color: #4a3007ff, #fbe9d3ff, #ffffffff, #000000ff, 
+}
+body {
+    background-image: url('paper.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }

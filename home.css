@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Calibri|Times New Roman|Georgia&display=swap");
+
+html {
+    margin: 0;
+    padding: 0;
+    font-family:"Calibri", "Times New Roman", "Georgia";
+    background-color: #4a3007ff;
+    scroll-behavior: smooth;
+    color: #4a3007ff, #fbe9d3ff, #ffffffff, #000000ff, 
+}
+
+/* margin/padding: top right bottom left */
+.container{
+    padding: 0 10px;
+    padding-right: 10px;
+    margin: 0, auto;
+    width: 70vw;}
+
+    h1, h2, h3, h4, h5, h6{
+    margin-top: 0;}
+
+/*Home page*/
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #4a3007ff;
+    scroll-behavior: smooth;
+    color: #4a3007ff;
+    overflow: hidden; 
+}
+
+#home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.images-style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.logo {
+    margin-right: 0%;
+    margin-bottom: 0%;
+    margin-top: -70px;
+}
+
+.home-title {
+    font-size: 85px;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    color: #fbe9d3ff;
+    margin-bottom: 0;
+    margin-top: -70px;
+}
+.enter {
+    text-align: center;
+    margin-top: 5px;
+}
+
+.enter-item {
+    display: flex;
+    justify-content: center;
+}
+
+.enter-button {
+    background-color: #fbe9d3ff;
+    color: #4a3007ff;
+    font-family: "Calibri";
+    font-size: 35px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 20px 350px; 
+    display: inline-block; 
+    border: none; 
+    margin-top: 0;
+}
+
+.enter-container {
+    display: flex;
+    justify-content: center;
+    margin-top: -170px
+}
