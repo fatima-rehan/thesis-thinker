@@ -23,13 +23,9 @@ body{
     color: #fbe9d3ff;
     overflow: hidden;
 }
-
+/*title of website*/
 .title-container{
     text-align:center;
-    justify-content: center;
-    font-size: 30px;
-    font-family: "Times New Roman";
-    color: #fbe9d3ff;
     background-color: #4a3007ff;
     background-size: 45vh;
     width: 100%;
@@ -37,3 +33,22 @@ body{
     position: fixed;
 }
 
+.title{
+    font-size: 30px;
+    font-family: "Times New Roman";
+    color: #fbe9d3ff;
+    justify-content: center;
+    margin-top: auto;
+}
+/*question text*/
+
+.question-container{
+    text-align: center;
+}
+
+.Name{
+    font-size: 30px;
+    font-family: "Times New Roman";
+    color: #fbe9d3ff;
+
+}
