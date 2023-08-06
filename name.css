@@ -20,9 +20,6 @@ html {
 
 body{
     background-image:'paper.jpg';
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 100% 100%;
     color: #fbe9d3ff;
     overflow: hidden;
 }
@@ -33,8 +30,8 @@ body{
     font-family: "Times New Roman";
     color: #fbe9d3ff;
     background-color: #4a3007ff;
-    background-size: 40vh;
-    width: 100vw;
+    background-size: 50vh;
+    width: 100%;
     position: -webkit-sticky-top;
     position: fixed;
 }
