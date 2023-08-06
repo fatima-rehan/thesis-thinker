@@ -7,8 +7,10 @@ html {
     scroll-behavior: smooth;
     color: #4a3007ff, #fbe9d3ff, #ffffffff, #000000ff, 
 }
-body {
+div {
     background-image: url('paper.jpg');
-    background-size: cover;
     background-repeat: no-repeat;
-  }
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: #fbe9d3ff;
+}
