@@ -18,35 +18,35 @@ html {
     h1, h2, h3, h4, h5, h6{
     margin-top: 0;}
 
-body{
-    background-image:'paper.jpg';
-    color: #fbe9d3ff;
-    overflow: hidden;
-}
-/*title of website*/
-.title-container{
-    text-align:center;
+    body {
+        background-image: url('paper.jpg');
+        background-size: cover;
+        color: #fbe9d3ff;
+        overflow: hidden;
+    }
+/* title of website */
+.title-container {
+    text-align: center;
     background-color: #4a3007ff;
-    background-size: 45vh;
     width: 100vw;
-    position: -webkit-sticky-top;
-    position: fixed;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
 }
 
-.title{
+.title {
     font-size: 30px;
     font-family: "Times New Roman";
     color: #fbe9d3ff;
 }
-/*question text*/
 
-.question-container{
+/* question text */
+.question-container {
     text-align: center;
 }
 
-.Name{
+.Name {
     font-size: 30px;
     font-family: "Times New Roman";
     color: #fbe9d3ff;
-
 }
