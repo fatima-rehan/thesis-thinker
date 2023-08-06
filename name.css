@@ -7,10 +7,36 @@ html {
     scroll-behavior: smooth;
     color: #4a3007ff, #fbe9d3ff, #ffffffff, #000000ff, 
 }
-div {
+
+/* margin/padding: top right bottom left */
+.container{
+    padding: 0 10px;
+    padding-right: 10px;
+    margin: 0, auto;
+    width: 70vw;
+}
+    h1, h2, h3, h4, h5, h6{
+    margin-top: 0;}
+
+body{
     background-image: url('paper.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
     color: #fbe9d3ff;
+    overflow: hidden;
 }
+
+.title{
+    text-align:center;
+    font-size: 35px;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    color: #fbe9d3ff;
+    background-color: #4a3007ff;
+    background-size: 40vh;
+    width: 100vw;
+    position: -webkit-sticky-top;
+    position: fixed;
+}
+
