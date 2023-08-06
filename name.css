@@ -26,11 +26,12 @@ body{
 
 .title-container{
     text-align:center;
-    font-size: 35px;
+    justify-content: center;
+    font-size: 30px;
     font-family: "Times New Roman";
     color: #fbe9d3ff;
     background-color: #4a3007ff;
-    background-size: 50vh;
+    background-size: 45vh;
     width: 100%;
     position: -webkit-sticky-top;
     position: fixed;
