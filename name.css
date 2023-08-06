@@ -19,7 +19,7 @@ html {
     margin-top: 0;}
 
 body{
-    background-image: url('paper.jpg');
+    background-image:'paper.jpg';
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
