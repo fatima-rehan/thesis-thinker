@@ -41,7 +41,8 @@ body {
   }
 
   .logo {
-  width: fit-content;
+  width: 75px;
+  height: auto;
   }
   
   .title {
