@@ -26,7 +26,7 @@ body {
     }
 /* title of website */
 .title-container {
-    display: flex;
+    display: flex-inline;
     align-items: center;
     background-color: #4a3007ff;
     width: 100vw;
@@ -35,8 +35,8 @@ body {
   }
   
   .logo {
-    width: 40px; 
-    margin: 10px; 
+    width: 50px; 
+    margin: 40px; 
   }
   
   .title {
