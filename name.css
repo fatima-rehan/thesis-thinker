@@ -61,10 +61,12 @@ body {
     color: #fbe9d3ff;
   }
 
-.question-container{
+  .question-container {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 100vh;
+    margin-top: -50px;   
 }
+  
