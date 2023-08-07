@@ -38,6 +38,7 @@ body {
   .logo-container{
     margin-right: 30px;
     margin-left: 0;
+    justify-content: flex-start;
   }
 
   .logo {
@@ -50,6 +51,7 @@ body {
     font-family: "Times New Roman";
     color: #fbe9d3ff;
     text-align: center;
+    flex: 1;
   }
 
 a {
