@@ -51,13 +51,12 @@ body {
   
   /* text box */
 .textbox {
-    width: 300px;
+    width: 500px;
     padding: 10px;
     font-size: 16px;
     font-family: "Calibri";
     border: 3px solid #4a3007ff;
     margin-top:30px;
-    background-color: #fbe9d3ff;
   }
 
   .question-container {
