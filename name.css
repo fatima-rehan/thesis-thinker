@@ -34,6 +34,10 @@ body {
     top: 0;
   }
   
+  .logo-container{
+    margin-right: auto;
+
+  }
   .logo {
     width: 50px; 
     margin: 40px; 
@@ -44,7 +48,10 @@ body {
     font-family: "Times New Roman";
     color: #fbe9d3ff;
   }
-  
+
+a {
+    text-decoration: none;
+  }
 
 /* question */
 .question {
