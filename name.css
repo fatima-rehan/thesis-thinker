@@ -46,8 +46,7 @@ body {
     font-family: "Times New Roman";
     font-weight: bold;
     color: #4a3007ff;
-    margin-bottom: 40px;
-    margin-top: -50px;
+    margin-bottom: 30px;
   }
   
   /* text box */
@@ -57,7 +56,7 @@ body {
     font-size: 16px;
     font-family: "Calibri";
     border: 3px solid #4a3007ff;
-    margin-top:40px;
+    margin-top:30px;
     color: #fbe9d3ff;
   }
 
@@ -67,6 +66,6 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    margin-top: -50px;   
+    margin-top: -65px;   
 }
   
