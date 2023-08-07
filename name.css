@@ -42,18 +42,18 @@ body {
 
 /* question */
 .question {
-    font-size: 40px;
+    font-size: 30px;
     font-family: "Times New Roman";
     font-weight: bold;
-    color: #000000ff;
+    color: #4a3007ff;
   }
   
   /* text box */
   .textbox {
-    width: 200px;
-    padding: 8px;
+    width: 300px;
+    padding: 10px;
     font-size: 16px;
     font-family: "Calibri";
-    border: 1px solid #ccc;
+    border: 2px solid #ccc;
   }
 
