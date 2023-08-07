@@ -57,7 +57,7 @@ body {
     font-family: "Calibri";
     border: 3px solid #4a3007ff;
     margin-top:30px;
-    color: #fbe9d3ff;
+    background-color: #fbe9d3ff;
   }
 
   .question-container {
