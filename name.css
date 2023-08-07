@@ -33,6 +33,7 @@ body {
     width: 100vw;
     position: sticky;
     padding: 10px 20px;
+    margin: 0;
   }
   
   .logo-container{
