@@ -40,14 +40,20 @@ body {
     color: #fbe9d3ff;
 }
 
-/* question text */
-.question-container {
-    text-align: center;
-    justify-content: center;
-}
-
-.Name {
-    font-size: 50px;
+/* question */
+.question {
+    font-size: 40px;
     font-family: "Times New Roman";
-    color:#4a3007ff;
-}
+    font-weight: bold;
+    color: #000000ff;
+  }
+  
+  /* text box */
+  .textbox {
+    width: 200px;
+    padding: 8px;
+    font-size: 16px;
+    font-family: "Calibri";
+    border: 1px solid #ccc;
+  }
+
