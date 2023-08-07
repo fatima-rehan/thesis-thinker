@@ -27,12 +27,12 @@ body {
 /* title of website */
 .title-container {
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
     background-color: #4a3007ff;
     width: 100vw;
     position: sticky;
+    padding: 10px 20px;
   }
   
   .logo-container{
@@ -50,7 +50,7 @@ body {
     font-family: "Times New Roman";
     color: #fbe9d3ff;
     text-align: center;
-    flex: 1;
+    margin: 0;
   }
 
 a {
