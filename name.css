@@ -40,13 +40,14 @@ body {
 
   }
   .logo {
-    width: 50px; 
+    width: 75px; 
   }
   
   .title {
     font-size: 40px;
     font-family: "Times New Roman";
     color: #fbe9d3ff;
+    text-align: center;
   }
 
 a {
