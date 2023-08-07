@@ -18,11 +18,11 @@ html {
     h1, h2, h3, h4, h5, h6{
     margin-top: 0;}
 
-    body {
-        background-image: url('paper.jpg');
-        background-size: cover;
-        color: #fbe9d3ff;
-        overflow: hidden;
+body {
+    background-image: url('paper.jpg');
+    background-size: cover;
+    color: #fbe9d3ff;
+    overflow: hidden;
     }
 /* title of website */
 .title-container {
@@ -43,10 +43,11 @@ html {
 /* question text */
 .question-container {
     text-align: center;
+    justify-content: center;
 }
 
 .Name {
-    font-size: 30px;
+    font-size: 50px;
     font-family: "Times New Roman";
-    color: #fbe9d3ff;
+    color:#4a3007ff;
 }
