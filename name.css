@@ -36,6 +36,9 @@ body {
     margin: 0;
   }
   
+.title::first-letter {
+    font-weight: bold;
+  }
   .logo-container{
     margin-left: 0;
     justify-content: flex-start;
