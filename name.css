@@ -42,14 +42,16 @@ body {
   .logo-container{
     margin-left: 0;
     justify-content: flex-start;
-    position: sticky;
+    position: relative;
 
   }
 
   .logo {
   width: 75px;
   height: auto;
-  position: fixed;
+  top: 10px;
+  left:10px;
+  position: absolute;
   }
   
   .title {
