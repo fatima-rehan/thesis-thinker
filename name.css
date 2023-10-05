@@ -49,6 +49,7 @@ body {
   .logo {
   width: 75px;
   height: auto;
+  position: fixed;
   }
   
   .title {
