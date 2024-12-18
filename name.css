@@ -40,9 +40,9 @@ body {
     font-weight: bold;
   }
   .logo-container{
-    margin-left: 0;
-    justify-content: flex-start;
-    position: relative;
+    position: absolute; 
+    top: 10px;          
+    left: 10px;  
 
   }
 
