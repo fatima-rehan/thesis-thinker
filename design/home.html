@@ -31,10 +31,19 @@
         </div>
     </div>
     <div class="enter-container">
-     <ul class="enter">
-        <li class="enter-item"><a class="enter-link" href="./name.html" alt="name"><button class = "enter-button"onclick="enter-button">ENTER WEBSITE</button></a></li>
-     </ul>
+        <ul class="enter">
+            <li class="enter-item">
+                <button class="enter-button" onclick="navigateToWebsite()">ENTER WEBSITE</button>
+            </li>
+        </ul>
     </div>
+    
+    <script>
+        function navigateToWebsite() {
+            window.location.href = "./name.html"; 
+        }
+    </script>
+    
 </body>
 
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>

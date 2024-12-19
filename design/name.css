@@ -38,6 +38,7 @@ body {
   
 .title::first-letter {
     font-weight: bold;
+    font-size: 1.2em;
   }
   .logo-container{
     position: absolute; 
@@ -60,6 +61,7 @@ body {
     color: #fbe9d3ff;
     text-align: center;
     margin: 0;
+    font-weight: normal;
   }
 
 a {
