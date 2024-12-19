@@ -41,16 +41,16 @@ body {
   }
   .logo-container{
     position: absolute; 
-    top: 5px;          
-    left: 5px;  
+    top: 2px;          
+    left: 2px;  
 
   }
 
   .logo {
   width: 75px;
   height: auto;
-  top: 5px;
-  left:5px;
+  top: 2px;
+  left:2px;
   position: absolute;
   }
   
