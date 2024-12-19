@@ -88,3 +88,9 @@ body {
     justify-content: center;
     margin-top: -170px
 }
+
+.typed-cursor {
+    font-size: inherit; 
+    color: black;       
+    animation: blink 0.7s infinite; 
+}
