@@ -36,9 +36,8 @@ body {
     margin: 0;
   }
   
-.title::first-letter {
+.word::first-letter {
     font-weight: bold;
-    font-size: 1.2em;
   }
   .logo-container{
     position: absolute; 
