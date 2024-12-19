@@ -36,7 +36,7 @@ body {
     margin: 0;
   }
   
-.word::first-letter {
+.title::first-letter {
     font-weight: bold;
   }
   .logo-container{
