@@ -36,9 +36,6 @@ body {
     margin: 0;
   }
   
-.title::first-letter {
-    font-weight: bold;
-  }
   .logo-container{
     position: absolute; 
     top: 0.5px;          
@@ -61,6 +58,10 @@ body {
     text-align: center;
     margin: 0;
     font-weight: normal;
+  }
+
+  .word::first-letter {
+    font-weight: bold;
   }
 
 a {
